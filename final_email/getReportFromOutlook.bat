@@ -1,0 +1,2 @@
+Python email_reader.py --outlook_folder="Call Center Reports" --agent_input_directory="\\AOCFILESVR1\CALL CENTER\Reports\Agents" --volume_input_directory="\\AOCFILESVR1\CALL CENTER\Reports\Agents\archive"
+PAUSE
